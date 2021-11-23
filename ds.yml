@@ -1,4 +1,4 @@
-name: dimi_env
+name: data_science
 channels:
   - anaconda
   - conda-forge
