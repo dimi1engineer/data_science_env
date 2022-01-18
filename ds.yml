@@ -4,14 +4,13 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - pip:
-    - notebook
-    - matplotlib
-    - numpy
-    - pandas
-    - psycopg2
-    - scipy
-    - sqlalchemy
-    - tqdm
-    - urllib3
+  - notebook
+  - matplotlib
+  - numpy
+  - pandas
+  - psycopg2
+  - scipy
+  - sqlalchemy
+  - tqdm
+  - urllib3
     
