@@ -1,16 +1,7 @@
 name: data_science
 channels:
-  - anaconda
   - conda-forge
 dependencies:
-  - pip:
-    - notebook
-    - matplotlib
-    - numpy
-    - pandas
-    - psycopg2
-    - scipy
-    - sqlalchemy
-    - tqdm
-    - urllib3
+  - notebook
+
     
