@@ -61,7 +61,6 @@ pip==21.3.1
 pipreqs==0.4.11
 prometheus-client==0.5.0
 prompt-toolkit==3.0.21
-psycopg2==2.9.2
 ptyprocess==0.7.0
 pyarrow==3.0.0
 pycparser==2.20
