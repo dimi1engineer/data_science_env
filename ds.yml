@@ -20,7 +20,6 @@ dependencies:
   - backports.functools_lru_cache=1.6.4
   - beautifulsoup4=4.9.3
   - bleach=4.1.0
-  - boost-cpp=1.69.0
   - brotli=1.0.9
   - brotli-bin=1.0.9
   - bzip2=1.0.8
@@ -100,8 +99,6 @@ dependencies:
   - openssl=1.1.1l
   - orc=1.6.9
   - packaging=21.0
-  - pandoc=2.15
-  - pandocfilters=1.5.0
   - parso=0.8.2
   - pexpect=4.8.0
   - pickleshare=0.7.5
